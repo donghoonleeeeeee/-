@@ -1,6 +1,6 @@
 package JavaProgramming;
 
-public class TEST4 {
+public class 배열세로 {
 	public static void main(String[] args) {
 		int a[][] = {{1, 3}, {22, 4}, {25, 6}, {7, 81}, {9, 10}};
 			

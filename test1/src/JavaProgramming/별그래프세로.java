@@ -1,6 +1,6 @@
 package JavaProgramming;
 
-public class TEST7 {
+public class 별그래프세로 {
 	public static void main(String[] args) {
 		int a[] = {4, 1, 3, 2, 5};
 		int k = 5;

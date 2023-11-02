@@ -1,15 +1,14 @@
 package JavaProgramming;
 
-public class TEST2 {
+public class 별피라미드 {
 	public static void main(String[] args) {
 		for (int a=0; a<5; a++) {
-			
 			for(int c=4; c>a; c--) 
 			{ 
 				System.out.print(" ");
 			}
 			
-			for (int b=0; b<=a; b++)
+			for (int b=1; b<=a*2-1; b++)
 			{
 				System.out.print("★");	
 			}

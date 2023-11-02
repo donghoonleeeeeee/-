@@ -1,6 +1,6 @@
 package JavaProgramming;
 
-public class TEST {
+public class 구구단세로 {
 	public static void main(String[] args) {
 		int a[] = {4, 1, 3, 5, 2};
 		
