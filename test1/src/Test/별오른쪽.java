@@ -1,4 +1,4 @@
-package JavaProgramming;
+package Test;
 
 public class 별오른쪽 {
 	public static void main(String[] args) {

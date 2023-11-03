@@ -1,4 +1,4 @@
-package JavaProgramming;
+package P1_P100;
 import java.util.Scanner;
 	public class P79 {
 		public static void main(String[] args) {

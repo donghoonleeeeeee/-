@@ -1,4 +1,4 @@
-package JavaProgramming;
+package Test;
 
 public class 배열세로 {
 	public static void main(String[] args) {

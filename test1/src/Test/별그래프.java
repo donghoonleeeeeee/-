@@ -1,4 +1,4 @@
-package JavaProgramming;
+package Test;
 
 public class 별그래프 {
 	public static void main(String[] args) {

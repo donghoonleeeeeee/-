@@ -1,4 +1,4 @@
-package JavaProgramming;
+package Test;
 
 public class Bubble {
 	public static void main(String[] args){

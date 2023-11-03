@@ -1,4 +1,4 @@
-package JavaProgramming;
+package P1_P100;
 
 /*
  * 소스파일 : Hello.java

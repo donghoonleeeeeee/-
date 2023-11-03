@@ -1,4 +1,4 @@
-package JavaProgramming;
+package P1_P100;
 
 public class P86 {
 	public static void main (String[] args) {

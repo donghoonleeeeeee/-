@@ -1,4 +1,4 @@
-package JavaProgramming;
+package Test;
 
 public class 성적표 {
 	public static void main(String[] args) {

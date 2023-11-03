@@ -1,4 +1,4 @@
-package JavaProgramming;
+package P1_P100;
 public class P74 extends P25 {
 	public static void main(String[] args) {
 		byte b = 127;

@@ -1,4 +1,4 @@
-package JavaProgramming;
+package Test;
 
 public class 별피라미드 {
 	public static void main(String[] args) {
